@@ -10,7 +10,17 @@ To-do-projects
 #### Project Repos
 ## 1. [Styles Conference](http://victorshay.bitballoon.com/) (FrontEnd)
 
-Project repo: 
+Find the repo [HERE](https://github.com/victsomie/shay)
+
+****Projects details:****
+
+ 1. This site gives information about a styles conference
+ 
+ 
+**Tools:**
+
+
+**Contributors:** [Victor M](https://github.com/victsomie)
 
 ## 2. [Watoto Kumi](http://victorwatotokumi.bitballoon.com/) (FrontEnd)
 Find the repo [HERE](https://github.com/victsomie/watotokumi)
