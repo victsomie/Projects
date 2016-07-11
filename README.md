@@ -3,8 +3,8 @@ To-do-projects
 
 # 
 
-  ## [personal website](http://victorsite.bitballoon.com/)
-  - [personal website repo](https://put your personal website repo url here)
+  ## [personal website](https://victsomie.github.io)
+  - [personal website repo](https://github.com/victsomie/victsomie.github.io)
   - [Personal blog](https://victsomie.github.io/blog/)
 
 #### Project Repos
@@ -22,15 +22,16 @@ Find the repo [HERE](https://github.com/victsomie/shay)
 
 **Contributors:** [Victor M](https://github.com/victsomie)
 
-## 2. [Watoto Kumi](http://victorwatotokumi.bitballoon.com/) (FrontEnd)
-Find the repo [HERE](https://github.com/victsomie/watotokumi)
+## 2. [SQLite To do list](http://bit.ly/29rvkWc/) (Android)
+Find the repo [HERE](https://github.com/victsomie/To-do-sqlite.git)
 
 ****Projects details:****
- 
- 1. A website about a children's home
- 
+
+A to do list implemented in Android
  
 **Tools:**
+SQLite Database
+Java for Android
 
 
 **Contributors:** [Victor M](https://github.com/victsomie)
